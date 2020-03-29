@@ -1,0 +1,11 @@
+backend/node_modules/
+express-tutorial-master/node_modules/
+mongoose_tutorial-master/node_modules/
+myapp/node_modules/
+node_modules/
+TechInfo/node_modules/
+TechInfo/backend/node_modules/
+TechInfo/fronted/node_modules/
+TechInfo_back/
+vue-table-simple/node_modules/
+vue-table-virtual-master/node_modules/
